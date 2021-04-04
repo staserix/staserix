@@ -1,4 +1,3 @@
-- 👋 Hi, I’m @staserix
 - 👀 I’m interested in cheerful
 - 🌱 I’m currently learning python Js c/c++
 - 💞️ I’m looking to collaborate on me
