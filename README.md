@@ -1,5 +1,5 @@
 - 👀 I’m interested in cheerful
-- 🌱 I’m currently learning python Js c/c++
+- 🌱 I’m currently learning python, c/c++
 - 💞️ I’m looking to collaborate on me
 - 📫 How to reach me -_-
 
